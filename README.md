@@ -1,1 +1,3 @@
-# Credit_Card_Anomaly_Detection_ML
+I have developed a machine learning model for credit card fraud detection utilizing classification algorithms, linear regression, and random forests. The model conducts a comprehensive analysis and prediction on the dataset, starting with Exploratory Data Analysis (EDA) to understand data distribution and patterns. It then uses correlation plots to identify relationships between features. The decision tree algorithm is employed to visualize decision-making processes. The performance of all three models—classification, linear regression, and Decision Trees—is evaluated, providing an accuracy score for each. The combined analysis helps in identifying the most effective model for fraud detection, ensuring robust and reliable predictions to mitigate fraudulent activities.
+
+Get Dataset from : "https://www.kaggle.com/mlg-ulb/creditcardfraud"
